@@ -29,22 +29,6 @@
   </tr>
 </table>
 
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-trophies.vercel.app/?username=JonathanBufon"
-    />
-  </a>
-</p>
-
 ---
 
 <div align="center">
