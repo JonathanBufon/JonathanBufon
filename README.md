@@ -3,7 +3,7 @@
 <div align="center">
   <tr>
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanBufon&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanBufon&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com?user=JonathanBufon&theme=sakura-x&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"
         alt="Github Stats"
       />
   </tr>
