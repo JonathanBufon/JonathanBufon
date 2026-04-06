@@ -1,13 +1,11 @@
-## Olá, eu sou o Jonathan! 👋
+### GitHub Analytics
 
-### ⚙️ GitHub Analytics
-
-<table>
+<table align="center">
   <tr>
     <td>
       <br />
       <img
-        align="left"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanBufon&theme=dark&hide_border=false"
         alt="Github Stats"
       />
