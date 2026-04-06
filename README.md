@@ -1,17 +1,13 @@
 ### GitHub Analytics
 
-<table align="center">
+<div align="center">
   <tr>
-    <td>
-      <br />
       <img
-        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanBufon&theme=dark&hide_border=false"
         alt="Github Stats"
       />
-    </td>
   </tr>
-</table>
+<div>
 
 
 <div align="center">
