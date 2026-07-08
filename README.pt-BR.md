@@ -54,5 +54,5 @@ Uma plataforma de dados cívicos focada em tornar informação pública legível
 
 ## Contato
 
-- Email — jonathanbufon@gmail.com
+- Email — contact@jonathanbufon.tech
 - GitHub — https://github.com/JonathanBufon

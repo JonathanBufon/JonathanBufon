@@ -54,5 +54,5 @@ A civic-data platform focused on making public information legible for regular p
 
 ## Contact
 
-- Email — jonathanbufon@gmail.com
+- Email — contact@jonathanbufon.tech
 - GitHub — https://github.com/JonathanBufon
