@@ -14,7 +14,7 @@ Construo produtos com PHP, Laravel, React, PostgreSQL, Redis, Docker e Linux,e r
 
 - Portfólio - https://jonathanbufon.tech
 - Blog - https://endoftime.blog
-- Projeto cívico - https://observatorio-civico.com.br
+- Notícias assistidas por IA - https://observatorio-civico.com.br
 
 ---
 
