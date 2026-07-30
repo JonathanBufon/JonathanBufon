@@ -5,14 +5,14 @@ $ whoami
 jonathan-bufon
 ```
 
-Desenvolvedor de software construindo produtos ao redor da web aberta, dados cívicos e conhecimento pessoal.
-Me importo com ferramentas que continuam úteis por anos — não só por trimestres.
+Engenheiro de software e estudante de Ciência da Computação na Unochapecó, baseado em Chapecó, SC.
+Construo produtos com PHP, Laravel, React, PostgreSQL, Redis, Docker e Linux — e recorro ao Rust quando o problema pede.
 
 ---
 
 ## Rotas principais
 
-- Site pessoal — https://jonathanbufon.tech
+- Portfólio — https://jonathanbufon.tech
 - Blog — https://endoftime.blog
 - Projeto cívico — https://observatorio-civico.com.br
 
@@ -20,35 +20,40 @@ Me importo com ferramentas que continuam úteis por anos — não só por trimes
 
 ## Projetos principais
 
-### Site Pessoal
-Meu hub na web aberta. Portfólio, notas e páginas mais longas que não cabem em outros lugares.
-→ https://jonathanbufon.tech
-
-### End Of Time
-Um blog sobre tempo, tecnologia, memória e as coisas que vale a pena registrar.
-→ https://endoftime.blog
+### CASIA
+SaaS jurídico multi-tenant em que cada caso reúne contexto, conversa com IA, arquivos e documentos produzidos.
+Fluxo de sessões e mensagens com estados de processamento, streaming por SSE, filas, uploads multimodais e agentes por domínio.
+- **Stack** Laravel · PostgreSQL · Redis · React · OpenAI
+- **Papel** Engenharia de produto, backend e arquitetura
 
 ### Observatório Cívico
-Uma plataforma de dados cívicos focada em tornar informação pública legível para pessoas comuns.
-→ https://observatorio-civico.com.br
+Coleta notícias políticas de múltiplas fontes e publica uma leitura que separa fatos, opiniões, enquadramentos e termos técnicos.
+- **Stack** Laravel · React · TypeScript · PostgreSQL · Docker
+- **Papel** Concepção do produto, backend, frontend e deploy
+- https://observatorio-civico.com.br
+
+### TEX CLI
+Ferramenta em Rust que fecha o pipeline JSON → template LaTeX → PDF em uma única execução.
+Configuração persistente, catálogo de templates, renderização com Tera, compilação com Tectonic e comandos utilizáveis no terminal ou em CI.
+- **Stack** Rust · Tera · Tectonic · LaTeX
+- **Papel** Autor e mantenedor
+- https://github.com/JonathanBufon/tex-cli
+
+### End Of Time
+Registro público das decisões e dos problemas encontrados enquanto construo meus próprios produtos.
+Arquitetura, infraestrutura Linux, ferramentas de documentos e estudos de caso de projetos.
+- **Stack** Web · CMS · RSS · i18n
+- **Papel** Autor, editor e desenvolvedor
+- https://endoftime.blog
 
 ---
 
 ## O que costumo construir
 
-- Aplicações web e pequenos produtos, do front ao back
-- Plataformas de conteúdo e blogs com camada editorial
-- Ferramentas cívicas — pipelines, dashboards, dados públicos
-- Fluxos de conhecimento pessoal e anotações
-
----
-
-## Interesses atuais
-
-- Dados cívicos abertos e como apresentá-los bem
-- Sites pessoais duradouros e publicação independente
-- Ferramentas local-first e formatos que sobrevivem ao tempo
-- IA como companheira de trabalho, não substituta
+- Backends de produto — modelagem de domínio, APIs REST, autenticação, multi-tenancy, filas, eventos, PostgreSQL e Redis
+- Sistemas com IA — chat com streaming, agentes por domínio, uso de ferramentas, contexto de arquivos, rastreabilidade de fontes e auditoria
+- Operação e infraestrutura — Docker, Traefik, Cloudflare, workers, Horizon, Supervisor, Linux
+- Ferramentas em Rust — CLIs, processamento de arquivos, templates LaTeX, geração de PDF, interfaces compatíveis com scripts e CI
 
 ---
 
