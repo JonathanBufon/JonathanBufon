@@ -6,15 +6,15 @@ jonathan-bufon
 ```
 
 Software engineer and Computer Science student at Unochapecó, based in Chapecó, SC.
-I build products with PHP, Laravel, React, PostgreSQL, Redis, Docker and Linux — and reach for Rust when the problem calls for it.
+I build products with PHP, Laravel, React, PostgreSQL, Redis, Docker and Linux,and reach for Rust when the problem calls for it.
 
 ---
 
 ## Main routes
 
-- Portfolio — https://jonathanbufon.tech
-- Blog — https://endoftime.blog
-- Civic project — https://observatorio-civico.com.br
+- Portfolio,https://jonathanbufon.tech
+- Blog,https://endoftime.blog
+- Civic project,https://observatorio-civico.com.br
 
 ---
 
@@ -50,14 +50,15 @@ Architecture, Linux infrastructure, document tooling and project case studies.
 
 ## What I usually build
 
-- Product backends — domain modeling, REST APIs, auth, multi-tenancy, queues, events, PostgreSQL and Redis
-- AI systems — chat with streaming, domain agents, tool use, file context, source traceability and audit
-- Ops and infrastructure — Docker, Traefik, Cloudflare, workers, Horizon, Supervisor, Linux
-- Rust tooling — CLIs, file processing, LaTeX templates, PDF generation, script and CI-compatible interfaces
+- Product backends,domain modeling, REST APIs, auth, multi-tenancy, queues, events, PostgreSQL and Redis
+- AI systems,chat with streaming, domain agents, tool use, file context, source traceability and audit
+- Ops and infrastructure,Docker, Traefik, Cloudflare, workers, Horizon, Supervisor, Linux
+- Rust tooling,CLIs, file processing, LaTeX templates, PDF generation, script and CI-compatible interfaces
 
 ---
 
 ## Contact
 
-- Email — contact@jonathanbufon.tech
-- GitHub — https://github.com/JonathanBufon
+- Email - contact@jonathanbufon.tech
+- GitHub - https://github.com/JonathanBufon
+- LinkedIn - https://www.linkedin.com/in/jonathan-bufon-9a7a8b425/

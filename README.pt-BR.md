@@ -6,15 +6,15 @@ jonathan-bufon
 ```
 
 Engenheiro de software e estudante de Ciência da Computação na Unochapecó, baseado em Chapecó, SC.
-Construo produtos com PHP, Laravel, React, PostgreSQL, Redis, Docker e Linux — e recorro ao Rust quando o problema pede.
+Construo produtos com PHP, Laravel, React, PostgreSQL, Redis, Docker e Linux,e recorro ao Rust quando o problema pede.
 
 ---
 
 ## Rotas principais
 
-- Portfólio — https://jonathanbufon.tech
-- Blog — https://endoftime.blog
-- Projeto cívico — https://observatorio-civico.com.br
+- Portfólio,https://jonathanbufon.tech
+- Blog,https://endoftime.blog
+- Projeto cívico,https://observatorio-civico.com.br
 
 ---
 
@@ -50,14 +50,15 @@ Arquitetura, infraestrutura Linux, ferramentas de documentos e estudos de caso d
 
 ## O que costumo construir
 
-- Backends de produto — modelagem de domínio, APIs REST, autenticação, multi-tenancy, filas, eventos, PostgreSQL e Redis
-- Sistemas com IA — chat com streaming, agentes por domínio, uso de ferramentas, contexto de arquivos, rastreabilidade de fontes e auditoria
-- Operação e infraestrutura — Docker, Traefik, Cloudflare, workers, Horizon, Supervisor, Linux
-- Ferramentas em Rust — CLIs, processamento de arquivos, templates LaTeX, geração de PDF, interfaces compatíveis com scripts e CI
+- Backends de produto,modelagem de domínio, APIs REST, autenticação, multi-tenancy, filas, eventos, PostgreSQL e Redis
+- Sistemas com IA,chat com streaming, agentes por domínio, uso de ferramentas, contexto de arquivos, rastreabilidade de fontes e auditoria
+- Operação e infraestrutura,Docker, Traefik, Cloudflare, workers, Horizon, Supervisor, Linux
+- Ferramentas em Rust,CLIs, processamento de arquivos, templates LaTeX, geração de PDF, interfaces compatíveis com scripts e CI
 
 ---
 
 ## Contato
 
-- Email — contact@jonathanbufon.tech
-- GitHub — https://github.com/JonathanBufon
+- Email - contact@jonathanbufon.tech
+- GitHub - https://github.com/JonathanBufon
+- LinkedIn - https://www.linkedin.com/in/jonathan-bufon-9a7a8b425/
