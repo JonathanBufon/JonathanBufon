@@ -12,9 +12,9 @@ Construo produtos com PHP, Laravel, React, PostgreSQL, Redis, Docker e Linux,e r
 
 ## Rotas principais
 
-- Portfólio,https://jonathanbufon.tech
-- Blog,https://endoftime.blog
-- Projeto cívico,https://observatorio-civico.com.br
+- Portfólio - https://jonathanbufon.tech
+- Blog - https://endoftime.blog
+- Projeto cívico - https://observatorio-civico.com.br
 
 ---
 
