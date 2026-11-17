@@ -5,60 +5,114 @@ $ whoami
 jonathan-bufon
 ```
 
-Software engineer and Computer Science student at Unochapecó, based in Chapecó, SC.
-I build products with PHP, Laravel, React, PostgreSQL, Redis, Docker and Linux,and reach for Rust when the problem calls for it.
+# Jonathan Bufon
+
+**Software Engineer | Backend Development | AI Systems | Computer Science**
+
+Software Engineer and Computer Science undergraduate at **Unochapecó**, based in Chapecó, Brazil.
+
+I design, build and maintain software products, focusing on backend engineering, system architecture, API development, AI integrations and infrastructure.
+
+My primary stack includes **PHP, Laravel, Python, React, TypeScript, PostgreSQL, Redis, Docker and Linux**. I also work with Rust, explore Go and develop tools that simplify engineering workflows.
+
+I am particularly interested in distributed systems, developer tooling, AI engineering, automation and building reliable software from concept to production.
 
 ---
 
-## Main routes
+## Explore
 
-- Portfolio - https://jonathanbufon.tech
-- Blog - https://endoftime.blog
-- AI-assisted news - https://observatorio-civico.com.br
-
----
-
-## Main projects
-
-### CASIA
-Multi-tenant legal SaaS where each case gathers context, AI conversation, files and produced documents.
-Session and message flow with processing states, SSE streaming, queues, multimodal uploads and domain-specific agents.
-- **Stack** Laravel · PostgreSQL · Redis · React · OpenAI
-- **Role** Product engineering, backend and architecture
-
-### Observatório Cívico
-Collects political news from multiple sources and publishes an analysis that separates facts, opinions, framings and technical terms.
-- **Stack** Laravel · React · TypeScript · PostgreSQL · Docker
-- **Role** Product conception, backend, frontend and deploy
-- https://observatorio-civico.com.br
-
-### TEX CLI
-Rust CLI that closes the JSON → LaTeX template → PDF pipeline in a single run.
-Persistent config, template catalog, Tera rendering, Tectonic compilation and commands usable in terminal or CI.
-- **Stack** Rust · Tera · Tectonic · LaTeX
-- **Role** Author and maintainer
-- https://github.com/JonathanBufon/tex-cli
-
-### End Of Time
-Public record of decisions and problems found while building my own products.
-Architecture, Linux infrastructure, document tooling and project case studies.
-- **Stack** Web · CMS · RSS · i18n
-- **Role** Author, editor and developer
-- https://endoftime.blog
+- **Portfolio:** https://jonathanbufon.tech
+- **Technical Blog:** https://endoftime.blog
+- **GitHub:** https://github.com/JonathanBufon
 
 ---
 
-## What I usually build
+## Technical Stack
 
-- Product backends,domain modeling, REST APIs, auth, multi-tenancy, queues, events, PostgreSQL and Redis
-- AI systems,chat with streaming, domain agents, tool use, file context, source traceability and audit
-- Ops and infrastructure,Docker, Traefik, Cloudflare, workers, Horizon, Supervisor, Linux
-- Rust tooling,CLIs, file processing, LaTeX templates, PDF generation, script and CI-compatible interfaces
+| Area | Technologies |
+|---|---|
+| Languages | PHP, Python, TypeScript, JavaScript, Rust, Go (basic) |
+| Backend | Laravel, FastAPI, REST APIs, WebSockets, SSE |
+| Frontend | React, Livewire, Tailwind CSS, HTML, CSS |
+| Databases & Cache | PostgreSQL, MySQL, Redis |
+| AI Engineering | OpenAI API, LLM integrations, AI agents, tool calling, multimodal processing |
+| Infrastructure | Linux, Docker, Kubernetes (K3s), Traefik, Nginx, Cloudflare |
+| DevOps & Tooling | Git, GitHub Actions, CI/CD, Bash, SSH, Tailscale |
+| Architecture | Multi-tenancy, RBAC, asynchronous processing, queues, event-driven systems |
+
+---
+
+## Featured Projects
+
+### CASIA — Legal AI Platform
+
+A multi-tenant legal SaaS platform designed to help legal professionals manage cases, documents and AI-assisted workflows.
+
+**Engineering highlights:**
+- Multi-tenant architecture with isolated organizational contexts and role-based access control.
+- Conversational AI with SSE streaming, message lifecycle management and persistent history.
+- Domain-specific AI agents and configurable prompts.
+- Multimodal document and image processing.
+- Background jobs, queues and asynchronous processing.
+- Document generation, source traceability and auditing.
+
+**Stack:** Laravel · PHP · PostgreSQL · Redis · Livewire · Docker · OpenAI API
+
+**Role:** Product engineering, backend development and architecture.
+
+**Website:** https://casiajud.com.br
+
+### End Of Time — Engineering & Technology Blog
+
+A technical blog where I document engineering decisions, experiments, infrastructure challenges and lessons learned while developing software products.
+
+**Topics include:**
+- Software architecture and backend engineering.
+- Linux, networking and self-hosted infrastructure.
+- DNS, privacy and internet infrastructure.
+- Developer tools, automation and document processing.
+- Technical experiments and project case studies.
+
+**Role:** Author, editor and developer.
+
+**Website:** https://endoftime.blog
+
+---
+
+## Engineering Interests
+
+**Backend & Software Architecture**
+
+Domain modeling, REST APIs, authentication, authorization, multi-tenancy, database design, asynchronous processing and distributed systems.
+
+**Artificial Intelligence**
+
+LLM integrations, conversational AI, streaming responses, domain-specific agents, tool calling, multimodal workflows and AI output traceability.
+
+**Infrastructure & DevOps**
+
+Linux servers, containerization, Kubernetes, networking, reverse proxies, CI/CD, deployment automation and self-hosting.
+
+**Developer Tooling**
+
+Rust CLIs, Python automation, document generation, reusable development workflows and tools that reduce repetitive engineering tasks.
+
+---
+
+## Currently Exploring
+
+- Advanced Python development with FastAPI, Pydantic and automated testing.
+- AI agents, LLM orchestration and evaluation techniques.
+- Rust for high-performance CLI applications and document processing.
+- Kubernetes, K3s and container orchestration.
+- Distributed systems and infrastructure automation.
+- Software engineering practices for scalable, maintainable applications.
 
 ---
 
 ## Contact
 
-- Email - contact@jonathanbufon.tech
-- GitHub - https://github.com/JonathanBufon
-- LinkedIn - https://www.linkedin.com/in/jonathan-bufon-9a7a8b425/
+- **Email:** contact@jonathanbufon.tech
+- **LinkedIn:** https://www.linkedin.com/in/jonathan-bufon-9a7a8b425/
+- **GitHub:** https://github.com/JonathanBufon
+- **Portfolio:** https://jonathanbufon.tech
